@@ -18,6 +18,8 @@
   "homepage": "https://github.com/qdf/predicts_engine#readme",
   "dependencies": {
     "body-parser": "^1.17.2",
-    "express": "^4.15.3"
+    "express": "^4.15.3",
+    "gaussian": "^1.1.0",
+    "normal-distribution": "0.0.4"
   }
 }
